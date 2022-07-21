@@ -16,10 +16,5 @@
 <img algin "left" img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img algin "left" img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img algin "left" img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-<img algin "left" img width="10%" <i class="devicon-github-original-wordmark"></i>
-
-          
-        
-
 </p>
 
